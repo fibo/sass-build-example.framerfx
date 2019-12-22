@@ -1,0 +1,26 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"private": true,
+	"devDependencies": {
+		"@types/react": "^16.8",
+		"node-sass": "^4.13.0",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0",
+		"trunx": "^0.26.0"
+	},
+	"scripts": {
+		"sass": "node-sass --include-path node_modules sass/app.scss > code/app.css"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "d48df038-9447-44ce-bbe6-1796e8e5be76"
+	},
+	"author": {
+		"name": "Gianluca Casati",
+		"url": "http://g14n.info"
+	}
+}

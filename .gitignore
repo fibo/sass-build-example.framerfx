@@ -1,0 +1,6 @@
+node_modules
+.backups/
+.framer-lock
+.npmrc
+.project.log
+.yarnrc
