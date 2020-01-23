@@ -1,5 +1,7 @@
 {
 	"main": "dist/index.js",
+	"description": "Framer X is a slick tool, you can express your creativity creating not only design mockups but also React components from real code. Is it possible to use your own Sass build?",
+	"homepage": "https://g14n.info/2019/12/framer-sass/",
 	"license": "MIT",
 	"private": true,
 	"devDependencies": {
